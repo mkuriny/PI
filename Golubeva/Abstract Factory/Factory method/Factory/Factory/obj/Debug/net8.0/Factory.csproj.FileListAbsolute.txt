@@ -1,0 +1,15 @@
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\bin\Debug\net8.0\Factory.exe
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\bin\Debug\net8.0\Factory.deps.json
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\bin\Debug\net8.0\Factory.runtimeconfig.json
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\bin\Debug\net8.0\Factory.dll
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\bin\Debug\net8.0\Factory.pdb
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.sourcelink.json
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.dll
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\refint\Factory.dll
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.pdb
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+C:\aisstaj\PI\Golubeva\Abstract Factory\Factory method\Factory\Factory\obj\Debug\net8.0\ref\Factory.dll
