@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aisstaj\\PI\\Golubeva\\Singleton Lab3\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17112FDC-724E-4019-8CDB-B5BE91D6524E}|Singleton\\Singleton.csproj|c:\\aisstaj\\pi\\golubeva\\singleton lab3\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17112FDC-724E-4019-8CDB-B5BE91D6524E}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aisstaj\\PI\\Golubeva\\Singleton Lab3\\Singleton\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\aisstaj\\PI\\Golubeva\\Singleton Lab3\\Singleton\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:11:45.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

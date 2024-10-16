@@ -1,0 +1,15 @@
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\aisstaj\PI\Golubeva\Singleton Lab3\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll
