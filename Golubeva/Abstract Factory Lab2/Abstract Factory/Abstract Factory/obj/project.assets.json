@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aisstaj\\PI\\Golubeva\\Abstract Factory\\Abstract Factory\\Abstract Factory\\Abstract Factory\\Abstract Factory.csproj",
+      "projectUniqueName": "C:\\aisstaj\\PI\\Golubeva\\Abstract Factory Lab2\\Abstract Factory\\Abstract Factory\\Abstract Factory.csproj",
       "projectName": "Abstract Factory",
-      "projectPath": "C:\\aisstaj\\PI\\Golubeva\\Abstract Factory\\Abstract Factory\\Abstract Factory\\Abstract Factory\\Abstract Factory.csproj",
+      "projectPath": "C:\\aisstaj\\PI\\Golubeva\\Abstract Factory Lab2\\Abstract Factory\\Abstract Factory\\Abstract Factory.csproj",
       "packagesPath": "C:\\Users\\Евгения\\.nuget\\packages\\",
-      "outputPath": "C:\\aisstaj\\PI\\Golubeva\\Abstract Factory\\Abstract Factory\\Abstract Factory\\Abstract Factory\\obj\\",
+      "outputPath": "C:\\aisstaj\\PI\\Golubeva\\Abstract Factory Lab2\\Abstract Factory\\Abstract Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Евгения\\AppData\\Roaming\\NuGet\\NuGet.Config",
