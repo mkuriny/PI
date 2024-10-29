@@ -1,0 +1,7 @@
+C:\Users\anyau\AppData\Local\C#\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\anyau\AppData\Local\C#\Prototype\bin\Debug\Prototype.exe
+C:\Users\anyau\AppData\Local\C#\Prototype\bin\Debug\Prototype.pdb
+C:\Users\anyau\AppData\Local\C#\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\anyau\AppData\Local\C#\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\anyau\AppData\Local\C#\Prototype\obj\Debug\Prototype.exe
+C:\Users\anyau\AppData\Local\C#\Prototype\obj\Debug\Prototype.pdb

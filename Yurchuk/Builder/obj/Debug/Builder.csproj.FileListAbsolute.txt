@@ -1,0 +1,7 @@
+C:\Users\anyau\AppData\Local\C#\Builder\bin\Debug\Builder.exe.config
+C:\Users\anyau\AppData\Local\C#\Builder\bin\Debug\Builder.exe
+C:\Users\anyau\AppData\Local\C#\Builder\bin\Debug\Builder.pdb
+C:\Users\anyau\AppData\Local\C#\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\anyau\AppData\Local\C#\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\anyau\AppData\Local\C#\Builder\obj\Debug\Builder.exe
+C:\Users\anyau\AppData\Local\C#\Builder\obj\Debug\Builder.pdb
